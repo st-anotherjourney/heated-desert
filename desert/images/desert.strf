@@ -1,0 +1,19 @@
+(supertux-tiles
+  (tilegroup
+    (name (_ "Desert Misc"))
+    (tiles
+      10000 0 0 0)
+  )
+
+  (tiles
+    (width 1)
+    (height 1)
+    (ids 10000)
+    (attributes 1024)
+    (images "tiles/desert/spike.png")
+  )
+
+  (import-tileset
+      (file "/images/tiles.strf")
+  )
+)

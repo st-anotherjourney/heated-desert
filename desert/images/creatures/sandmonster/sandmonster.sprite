@@ -1,0 +1,27 @@
+(supertux-sprite
+  (action
+    (name "left")
+    (hitbox 9 22 46 18)
+    (fps 10)
+    (images "sm-0.png"
+            "sm-1.png"
+            "sm-2.png"
+            "sm-1.png")
+  )
+  (action
+    (name "right")
+    (hitbox 9 22 46 18)
+    (fps 10)
+    (mirror-action "left")
+  )
+  (action
+    (name "squished-left")
+    (hitbox 9 22 46 18)
+    (images "sm-squished.png")
+  )
+  (action
+    (name "squished-right")
+    (hitbox 9 22 46 18)
+    (mirror-action "squished-left")
+  )
+)

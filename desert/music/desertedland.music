@@ -1,0 +1,7 @@
+(supertux-music
+  (file "desertedland.ogg")
+  (authors "Vaesea")
+  (license "CC-BY-SA")
+  (loop-begin 0)
+  (loop-at    -1)
+)
