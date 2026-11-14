@@ -1,0 +1,7 @@
+(supertux-sprite
+	(action
+	  (name "left")
+	  (hitbox 2 0 61 32)
+	  (images "crystal-sky.png")
+	)
+)

@@ -1,0 +1,8 @@
+(supertux-music
+  (file "tuxvictorious.ogg")
+  (authors "Marek \"Wansti\" Moeckel")
+  (license "CC-BY-SA / GPL 2+")
+  (title "Tux Victorious")
+  (loop-begin 0)
+  (loop-at    -1)
+)

@@ -1,0 +1,7 @@
+(supertux-music
+  (file "fight_on_the_sea.ogg")
+  (authors "Vaesea")
+  (license "CC-BY-SA 4.0")
+  (loop-begin 0)
+  (loop-at    -1)
+)
